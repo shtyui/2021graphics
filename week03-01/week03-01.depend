@@ -1,8 +1,7 @@
 # depslib dependency file v1.0
-1514140588 source:c:\users\administrator\desktop\week03-01\main.cpp
-	<GLUT/glut.h>
+1615345606 source:c:\users\administrator\desktop\week03-01\main.cpp
 	<GL/glut.h>
-	<stdlib.h>
+	<math.h>
 
 1426320928 c:\users\administrator\desktop\freeglut\include\gl\glut.h
 	"freeglut_std.h"
